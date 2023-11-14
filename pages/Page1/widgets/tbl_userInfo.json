@@ -27,7 +27,7 @@
         {"key": "primaryColumns.updated_at.computedValue"}
     ],
     "needsHeightForContent": true,
-    "leftColumn": 1,
+    "leftColumn": 28,
     "delimiter": ",",
     "defaultSelectedRowIndex": 0,
     "flexVerticalAlignment": "start",
@@ -424,7 +424,7 @@
     "key": "gs6c2a0j5x",
     "canFreezeColumn": true,
     "isDeprecated": false,
-    "rightColumn": 42,
+    "rightColumn": 62,
     "textSize": "0.875rem",
     "widgetId": "xvfpvcg9jd",
     "enableServerSideFiltering": false,
